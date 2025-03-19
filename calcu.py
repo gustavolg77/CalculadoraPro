@@ -58,6 +58,5 @@ def factorial(num):
             num = num-1
     return res
 
-a = int(input("ingrese numero: "))
-print(factorial(a))
+
 #funcion de logaritmo

@@ -47,7 +47,17 @@ def raiz_cuadrada(numero):
 
 
 #funcion de factorial
+def factorial(num):
+    aux = num
+    res = 1
+    if aux==0:
+        return res
+    else:
+        for i in range(aux):
+            res = res*num
+            num = num-1
+    return res
 
-
-
+a = int(input("ingrese numero: "))
+print(factorial(a))
 #funcion de logaritmo

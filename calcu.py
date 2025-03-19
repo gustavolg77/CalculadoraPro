@@ -4,7 +4,8 @@ import math
 
 
 #funcion suma
-
+def suma(a, b):
+    return a + b
 
 
 #funcion resta

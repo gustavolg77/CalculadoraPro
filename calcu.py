@@ -19,8 +19,11 @@ def resta(a, b):
 
 
 #funcion division
-
-
+def dividir(a, b):
+    if b == 0:
+        return "Error: No se puede dividir entre 0"
+    else: 
+        return a / b
 
 
 #funcion de potencia

@@ -18,7 +18,7 @@ Integrante 3: Yana Yujra Dolly Yasmin, @DollyYanaDeIngDeSoftware
     Funcion de Suma
     *Implementar la funcion sumar(a, b).
     
-Integrante 4: Choque Cabrera Sandra, @
+Integrante 4: Choque Cabrera Sandra, @sandra1904-sa
 
     Funcion de Resta
     *Implementar la funcion restar(a, b).

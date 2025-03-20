@@ -45,7 +45,7 @@ def raiz_cuadrada(numero):
 
 
 
-#funcion de modulo (resto de la division)
+#funcion de modulo (resto de la division) (Aguilar Condori Alvaro)
 def modulo(a, b):
     if b==0:
        return "ERROR"

@@ -43,7 +43,7 @@ Integrante 8: Yana Cabezas Jhojan Adalid, @
     Funcion de Raiz Cuadrada
     *Implementar la funcion raiz_cuadrada(numero), manejando numeros negativos.
 
-Integrante 9: Gemio Escobar Tais Belen, Tais 20249
+Integrante 9: Gemio Escobar Tais Belen, @Tais20249
 
     Funcion de Modulo (Resto de Division)
     *Implementar la funcion modulo(a, b).

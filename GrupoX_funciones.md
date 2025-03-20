@@ -23,7 +23,7 @@ Integrante 4: Choque Cabrera Sandra, @
     Funcion de Resta
     *Implementar la funcion restar(a, b).
 
-Integrante 5: Garcia Cruz Carla Gabriela,  @carlyggc
+Integrante 5: Garcia Cruz Carla Gabriela,@carlyggc
 
     Funcion de Multiplicacion
     *Implementar la funcion multiplicar(a, b).

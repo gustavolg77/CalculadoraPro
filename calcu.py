@@ -24,7 +24,7 @@ def dividir(a, b):
 
 
 #funcion de potencia
-def power(a, b):
+def potencia(a, b):
     return a ** b
 
 #funcion de raiz cuadrada
@@ -96,8 +96,8 @@ def menu():
                 print("Resultado:", multiplicacion(a, b))
             elif opcion == "4":
                 print("Resultado:", dividir(a, b))
-            #elif opcion == "5":
-             #   print("Resultado:", potencia(a, b))
+            elif opcion == "5":
+                print("Resultado:", potencia(a, b))
             elif opcion == "7":
                 print("Resultado:", modulo(a, b))
 # aqui los parametros que se recibe son distintos

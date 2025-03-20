@@ -46,7 +46,10 @@ def raiz_cuadrada(numero):
 
 
 #funcion de modulo (resto de la division)
-
+def modulo(a, b):
+    if b==0:
+       return "ERROR"
+    return a % b
 
 
 #funcion de factorial

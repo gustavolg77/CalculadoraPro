@@ -52,7 +52,6 @@ def modulo(a, b):
     return a % b
 
 
-
 #funcion de factorial
 def factorial(num):
     aux = num

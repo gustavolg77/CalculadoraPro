@@ -28,9 +28,8 @@ def dividir(a, b):
 
 
 #funcion de potencia
-
-
-
+def power(a, b):
+    return a ** b
 
 #funcion de raiz cuadrada
 

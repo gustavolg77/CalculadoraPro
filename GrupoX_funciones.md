@@ -13,7 +13,7 @@ Integrante 2: Luis Gustavo Garcia Perez, @gustavolg77
     *Implementar un menu en Python que permita seleccionar diferentes operaciones.
     *Opciones del menu deben llamar a las funciones de los demás integrantes.
 
-Integrante 3: Yana Yujra Dolly Yasmin, @DollyYanaDeIngDeSoftware
+Integrante 3: Yana Yujra Dolly Yasmin, @
     
     Funcion de Suma
     *Implementar la funcion sumar(a, b).
@@ -23,7 +23,7 @@ Integrante 4: Choque Cabrera Sandra, @
     Funcion de Resta
     *Implementar la funcion restar(a, b).
 
-Integrante 5: Garcia Cruz Carla Gabriela, @
+Integrante 5: Garcia Cruz Carla Gabriela,usuario:@carlyggc
 
     Funcion de Multiplicacion
     *Implementar la funcion multiplicar(a, b).

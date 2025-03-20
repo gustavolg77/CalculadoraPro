@@ -16,7 +16,7 @@ def resta(a, b):
 
 #funcion multiplicacion
 def multiplicar(a, b):
-    return a*b
+    return a * b
 
 #funcion division
 def dividir(a, b):
